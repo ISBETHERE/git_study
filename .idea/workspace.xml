@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ca5ad39-dcf9-4cb2-87a6-8441edc3b232" name="디폴트 변경 목록" comment="" />
+    <list default="true" id="1ca5ad39-dcf9-4cb2-87a6-8441edc3b232" name="디폴트 변경 목록" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git-study" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2VNMSBhwmaZ77LzrhzvtR5JddH5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,19 +35,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -55,7 +44,9 @@
       <option name="presentableId" value="Default" />
       <updated>1694672081862</updated>
       <workItem from="1694672083041" duration="734000" />
-      <workItem from="1694676394670" duration="473000" />
+      <workItem from="1694676394670" duration="1241000" />
+      <workItem from="1694741233116" duration="25000" />
+      <workItem from="1698120769508" duration="4000" />
     </task>
     <servers />
   </component>
